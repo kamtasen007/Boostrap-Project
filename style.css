@@ -1,0 +1,13 @@
+
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.96);
+}
+
+.carousel-item img{
+    height: 50%;
+}
+span{
+    color: blue;
+}
